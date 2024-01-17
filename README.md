@@ -22,7 +22,7 @@ This repository contains an in-depth analysis of video game sales, exploring key
 
 ## Getting Started
 - Clone the repository:
-  - git clone https://github.com/your-username/video-game-sales-analysis.git
+  - git clone https://github.com/Elixir-sir/TASK-INTERN-CAREER.git
   - cd video-game-sales-analysis
     
 Explore the notebooks titled vg_sales analysis to understand the analysis process.
